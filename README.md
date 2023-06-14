@@ -17,7 +17,7 @@ To recommend movies with similar content, we need to apply the cosine similarity
 
 
 ## Demo
-[![video](https://github.com/rishav197/Movies-Recommendation-System/blob/main/Recommendations/img3.png.jpg)](https://youtu.be/TS7qI6gGvRk)
+[![video](https://github.com/rishav197/Movies-Recommendation-System/blob/main/Demo_Video/thumbnail.jpg)](https://youtu.be/TS7qI6gGvRk)
 
 
 
