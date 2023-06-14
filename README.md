@@ -17,7 +17,7 @@ To recommend movies with similar content, we need to apply the cosine similarity
 
 
 ## Demo
-<!-- [![Watch the video](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.whoa.in%2Fgallery%2Flord-hanuman-with-natural-view-pictures&psig=AOvVaw2g_Kd_-TGRiDwRlmH3dnyI&ust=1686802617347000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDLzMjzwf8CFQAAAAAdAAAAABAE)](https://youtu.be/1xtrIEwY_zY) -->
+![Watch the video](https://github.com/rishav197/Movies-Recommendation-System/issues/1#issue-1756343170)
 
 
 
