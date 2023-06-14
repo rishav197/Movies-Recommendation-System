@@ -22,7 +22,7 @@ To recommend movies with similar content, we need to apply the cosine similarity
 
 
 ## Some Recommendations
-<!-- ![image](Recommendations/img1.png.jpg) -->
+![image-1](https://github.com/rishav197/Movies-Recommendation-System/blob/main/Recommendations/img1.png.jpg)
 
 
 
